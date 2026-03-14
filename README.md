@@ -66,8 +66,8 @@ Ensure you have [Bun](https://bun.sh/) installed.
 
 1. **Clone & Enter**:
    ```bash
-   git clone <your-repo-url>
-   cd <project-directory>
+   git clone [<your-repo-url>](https://github.com/Jejorm/american-feast-xp)
+   cd american-feast-xp
    ```
 
 2. **Install Dependencies**:
@@ -131,4 +131,4 @@ This project follows strict coding standards. Please refer to [AGENTS.md](./AGEN
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
-Built with ❤️ for the All-American Food Fest.
+Built with ❤️ for the Amerian Feast EXP.
