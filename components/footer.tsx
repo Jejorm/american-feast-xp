@@ -128,7 +128,7 @@ export default function Footer() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="text-center text-festival-cream/40 text-sm"
         >
-          <p>&copy; 2026 All-American Food Fest. All rights reserved.</p>
+          <p>&copy; 2026 American Feast Experience. All rights reserved.</p>
         </motion.div>
       </div>
 
