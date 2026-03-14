@@ -16,7 +16,7 @@ Welcome to the **All-American Food Fest**! A premium, high-performance web appli
 
 | Hero Section (Parallax) | Premium Lineup Carousel | Tickets Price and Real-Time Ticket Tracker |
 | :--- | :--- | :--- |
-| ![Hero](https://i.imgur.com/4GCAalU.jpeg) | ![Lineup](https://i.imgur.com/bn5FwuE.png) | ![Tickets And Counter](https://i.imgur.com/n9nydD4.jpeg) |
+| ![Hero](https://i.imgur.com/MpRCrj3.png) | ![Lineup](https://i.imgur.com/3LR9aQ8.png) | ![Tickets And Counter](https://i.imgur.com/6DKZelx.png) |
 
 ---
 
