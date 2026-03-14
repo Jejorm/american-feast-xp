@@ -45,7 +45,7 @@ export default function Footer() {
               whileHover={{ scale: 1.1, rotate: -2 }}
               className="text-2xl sm:text-5xl md:text-6xl lg:text-7xl font-black text-festival-yellow hover:text-festival-orange transition-colors inline-block"
             >
-              @AMERICANFOODFEST
+              @AMERICANFEASTEXP
             </motion.a>
           </div>
           <p className="mt-6 text-festival-cream/70 text-lg sm:text-xl">

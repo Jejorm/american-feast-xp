@@ -64,7 +64,7 @@ export default function Navbar() {
               whileHover={{ scale: 1.05 }}
               className="text-lg sm:text-xl md:text-2xl px-4 md:px-0 font-black text-festival-yellow cursor-pointer"
             >
-              FOOD FEST
+              AMERICAN FEAST EXP
             </motion.button>
 
             {/* Desktop nav */}

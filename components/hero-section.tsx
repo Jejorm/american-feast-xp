@@ -148,12 +148,12 @@ export default function HeroSection() {
           style={{ y: titleY, scale: titleScale, opacity: titleOpacity }}
           className="text-center"
         >
-          <h1 className="text-6xl sm:text-7xl md:text-9xl lg:text-[11rem] xl:text-[14rem] font-black text-festival-cream leading-[0.85] tracking-tighter">
+          <h1 className="text-6xl sm:text-7xl md:text-9xl lg:text-[9rem] xl:text-[12rem] font-black text-festival-cream leading-[0.85] tracking-tighter">
             <span className="mb-4 md:mb-2 block drop-shadow-[6px_6px_0px_rgba(0,0,0,0.4)] hover:drop-shadow-[8px_8px_0px_rgba(0,0,0,0.5)] transition-all">
-              ALL-AMERICAN
+              AMERICAN
             </span>
             <span className="block text-festival-yellow drop-shadow-[8px_8px_0px_rgba(0,0,0,0.4)] hover:drop-shadow-[12px_12px_0px_rgba(0,0,0,0.5)] transition-all">
-              FOOD FEST
+              FEAST EXPERIENCE
             </span>
           </h1>
         </motion.div>
