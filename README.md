@@ -13,12 +13,10 @@ Welcome to the **All-American Food Fest**! A premium, high-performance web appli
 
 ## ✨ Visual Experience
 
-> [!TIP]
-> Add your project screenshots here to showcase the vibrant design!
 
-| Hero Section (Parallax) | Premium Lineup Carousel | Real-time Ticket Tracker |
+| Hero Section (Parallax) | Premium Lineup Carousel | Tickets Price and Real-Time Ticket Tracker |
 | :--- | :--- | :--- |
-| ![Hero Placeholder](https://via.placeholder.com/400x250?text=Hero+Section+Parallax) | ![Lineup Placeholder](https://via.placeholder.com/400x250?text=Premium+Lineup+Carousel) | ![Tickets Placeholder](https://via.placeholder.com/400x250?text=Real-time+Tickets) |
+| ![Hero](https://i.imgur.com/4GCAalU.jpeg) | ![Lineup](https://i.imgur.com/bn5FwuE.png) | ![Tickets And Counter](https://i.imgur.com/n9nydD4.jpeg) |
 
 ---
 
