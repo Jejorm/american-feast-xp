@@ -66,7 +66,7 @@ Ensure you have [Bun](https://bun.sh/) installed.
 
 1. **Clone & Enter**:
    ```bash
-   git clone [<your-repo-url>](https://github.com/Jejorm/american-feast-xp)
+   git clone https://github.com/Jejorm/american-feast-xp
    cd american-feast-xp
    ```
 
